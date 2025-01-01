@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+th {
+    color: white;
+    background-color: rgb(10, 119, 57);
+}
+.class {
+    color: rgb(10, 119, 57);
+    font-size: 20px;
+    background-color: rgb(203, 200, 200);
+}
+.classone {
+    background-color: rgb(10, 119, 57);
+}
